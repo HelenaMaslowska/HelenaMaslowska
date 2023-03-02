@@ -1,7 +1,8 @@
 <div align="center">
   <div id="header">
-    <img src="https://media3.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif?cid=ecf05e47ewceczv5749eglrkuifnoasqi0iibtuiz0ndbhqj&rid=giphy.gif&ct=s" width="300"/>
+    <img src="https://media1.giphy.com/media/LUokZJ21LM39f6d0Md/giphy.gif?cid=ecf05e47wvehpcjb7r9dkr7ib95djpvi34fskucexy6xkxxq&rid=giphy.gif&ct=s" width="300"/>
   </div>
+  <!-- https://media3.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif?cid=ecf05e47ewceczv5749eglrkuifnoasqi0iibtuiz0ndbhqj&rid=giphy.gif&ct=s -->
   <div id="badges">
     <a href="https://www.linkedin.com/in/helena-mas%C5%82owska-635b62241/">
       <img src="https://img.shields.io/badge/Linked In-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
