@@ -18,9 +18,9 @@
     
 ### :woman_technologist: About me:
 - 🔭 I’m currently working on [Shop project](https://github.com/HelenaMaslowska/Store) <br/>
-- 🌱 I’m currently learning React :star: <br/>
+- 🌱 I’m currently learning React <br/>
 - 📫 How to reach me: helena.maslowska17@gmail.com <br/>
-- ⚡ Fun fact: I have a lot of temporary hobbies, now my favourite hobby is to create furnitures by the cardboard!
+- ⚡ Fun fact: I like yellow!
 
 ---
 <div align="center"/>
