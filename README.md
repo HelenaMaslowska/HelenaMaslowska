@@ -18,8 +18,7 @@
 <div align="left"/>
     
 ### :woman_technologist: About me:
-- 🔭 I’m currently working on [Shop project](https://github.com/HelenaMaslowska/Store) <br/>
-- 🌱 I’m currently learning React <br/>
+- 🌱 I’m currently learning JavaScript <br/>
 - 📫 How to reach me: helena.maslowska17@gmail.com <br/>
 - ⚡ Fun fact: I like yellow!
 
