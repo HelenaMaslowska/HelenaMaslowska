@@ -28,6 +28,7 @@
 ### :fire: My Stats:
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HelenaMaslowska&theme=gruvbox&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
     
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaMaslowska&layout=compact&hide=Jupyter%20Notebook&theme=gruvbox&hide_border=true)
 ---
   
 ### 💻 Languages:
