@@ -18,6 +18,7 @@
 <div align="left"/>
     
 ### :woman_technologist: About me:
+- [My portfolio website](https://helenamaslowska.github.io/portfolio/)
 - 🌱 I’m currently learning React <br/>
 - 📫 How to reach me: helena.maslowska17@gmail.com <br/>
 - ⚡ Fun fact: I like yellow!
