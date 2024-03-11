@@ -11,18 +11,14 @@
       <img src="https://img.shields.io/badge/Unity Asset Store-darkgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
     </a>
   </div>
-  <div> 
-    <img src="https://komarev.com/ghpvc/?username=HelenaMaslowska&style=flat-square&color=yellowgreen" alt=""/> 
-  <div/>
 <div/>
-<div align="left"/>
-    
-### :woman_technologist: About me:
-- [My portfolio website](https://helenamaslowska.github.io/portfolio/)
-- 🌱 I’m currently in 1 React project <br/>
-- 📫 How to reach me: helena.maslowska17@gmail.com <br/>
-- ⚡ Fun fact: I like yellow!
-
+  <br/>  <br/>
+<strong>:woman_technologist: Hi! I'm Helen. Here is my <a href="https://helenamaslowska.github.io/portfolio/">portfolio </a></strong><br/>
+🌱 I’m currently in 1 React project <br/>
+:hammer_and_wrench: Favourite tech stack: &numsp; <code>React</code> &numsp; | &numsp; <code>SCSS</code> &numsp; | &numsp; <code>Figma</code> &numsp; | &numsp; <code>Blender</code>
+  
+  <br/>  <br/>
+  
 ---
 <div align="center"/>
     
@@ -30,29 +26,27 @@
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=HelenaMaslowska&theme=gruvbox&hide_border=true&border_radius=4.6)](https://git.io/streak-stats)
     
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HelenaMaslowska&layout=compact&hide=Jupyter%20Notebook&theme=gruvbox&hide_border=true)
----
-  
-### 💻 Languages:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
-<div/>
+
+<img src="https://komarev.com/ghpvc/?username=HelenaMaslowska&style=flat-square&color=yellowgreen" alt=""/> 
 
 ---
   
-### :hammer_and_wrench: Tools:
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="Intellij" alt="Intellij" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  <h3>💻 Languages and Tools: </h3>
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+<!--     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="40" height="40"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+  <div/>
+  
+  <div>
+    <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/qt/qt-original.svg" title="Qt" alt="Qt" width="40" height="40"/>&nbsp;
+  <!--   <img src="https://github.com/devicons/devicon/blob/master/icons/androidstudio/androidstudio-original.svg" title="AndroidStudio" alt="AndroidStudio" width="40" height="40"/>&nbsp; -->
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/>
+  </div>
 </div>
