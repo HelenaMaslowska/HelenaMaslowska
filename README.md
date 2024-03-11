@@ -4,12 +4,8 @@
   </div>
   <!-- https://media3.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif?cid=ecf05e47ewceczv5749eglrkuifnoasqi0iibtuiz0ndbhqj&rid=giphy.gif&ct=s -->
   <div id="badges">
-    <a href="https://www.linkedin.com/in/helena-mas%C5%82owska-635b62241/">
-      <img src="https://img.shields.io/badge/Linked In-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-    </a>
-    <a href="https://assetstore.unity.com/packages/3d/props/guns/mexican-gun-214062">
-      <img src="https://img.shields.io/badge/Unity Asset Store-darkgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/>
-    </a>
+    <a href="https://www.linkedin.com/in/helena-mas%C5%82owska-635b62241/"> <img src="https://img.shields.io/badge/Linked In-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
+    <a href="https://assetstore.unity.com/packages/3d/props/guns/mexican-gun-214062"> <img src="https://img.shields.io/badge/Unity Asset Store-darkgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> </a>
   </div>
 <div/>
   <br/>  <br/>
