@@ -1,15 +1,16 @@
 <div align="center">
   <div id="header">
     <img src="https://media1.giphy.com/media/LUokZJ21LM39f6d0Md/giphy.gif?cid=ecf05e47wvehpcjb7r9dkr7ib95djpvi34fskucexy6xkxxq&rid=giphy.gif&ct=s" width="200"/>
+    <!-- https://media3.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif?cid=ecf05e47ewceczv5749eglrkuifnoasqi0iibtuiz0ndbhqj&rid=giphy.gif&ct=s -->
   </div>
-  <!-- https://media3.giphy.com/media/lnIfDxGkt2t6L3KmgG/giphy.gif?cid=ecf05e47ewceczv5749eglrkuifnoasqi0iibtuiz0ndbhqj&rid=giphy.gif&ct=s -->
+  
   <div id="badges">
-    <a href="https://www.linkedin.com/in/helena-mas%C5%82owska-635b62241/"> <img src="https://img.shields.io/badge/Linked In-darkblue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> 
-    <a href="https://assetstore.unity.com/packages/3d/props/guns/mexican-gun-214062"> <img src="https://img.shields.io/badge/Unity Asset Store-darkgreen?style=for-the-badge&logo=unity&logoColor=white" alt="Unity Badge"/> </a>
+    <a href="https://www.linkedin.com/in/helena-mas%C5%82owska-635b62241/"> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/> </a> &numsp;
+    <a href="https://helenamaslowska.github.io/portfolio/"> <img src="https://img.shields.io/badge/Portfolio website-darkgreen?style=for-the-badge&logo=react&logoColor=white" alt="Unity Badge"/> </a>
   </div>
 <div/>
   <br/>  <br/>
-<strong>:woman_technologist: Hi! I'm Helen. Here is my <a href="https://helenamaslowska.github.io/portfolio/">portfolio </a></strong><br/>
+<strong>:woman_technologist: Hi! I'm Helen. Welcome to my profile! <br/>
 🌱 I’m currently in 1 React project <br/>
 :hammer_and_wrench: Favourite tech stack: &numsp; <code>React</code> &numsp; | &numsp; <code>SCSS</code> &numsp; | &numsp; <code>Figma</code> &numsp; | &numsp; <code>Blender</code>
   
