@@ -12,7 +12,7 @@
   <br/>  <br/>
 <strong>:woman_technologist: Hi! I'm Helen. Welcome to my profile! <br/>
 🌱 I’m currently in 3 projects <br/>
-:hammer_and_wrench: Favourite tech stack: &numsp; <code>React</code> &numsp; | &numsp; <code>Blender</code> &numsp; | &numsp; <code>SCSS</code> &numsp; | &numsp; <code>Figma</code> &numsp; | &numsp; <code>GIMP/Procreate</code>
+:hammer_and_wrench: Favourite tech stack: &numsp; <code>React</code> &numsp; | &numsp; <code>Blender</code> &numsp; | &numsp; <code>SCSS</code> &numsp; | &numsp; <code>Figma</code> &numsp; | &numsp; <code>GIMP/Procreate</code> | &numsp; <code>Raspberry Pi</code>
   
   <br/>  <br/>
   
